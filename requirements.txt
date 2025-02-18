@@ -1,0 +1,10 @@
+kagglehub
+pandas
+matplotlib
+opencv-python
+tqdm
+tensorflow
+numpy
+glob2
+streamlit
+pillow
