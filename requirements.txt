@@ -10,3 +10,4 @@ streamlit
 pillow
 numpy
 pandas
+seaborn
