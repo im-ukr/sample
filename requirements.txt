@@ -9,3 +9,4 @@ glob2
 streamlit
 pillow
 numpy
+pandas
